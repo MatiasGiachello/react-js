@@ -5,10 +5,8 @@ import CartWidget from '../CartWidget/CartWidget'
 const NavBar = () => {
     return (
         <header>
-            <h1>CLOSE RIVER</h1>
-
-
             <div className='containerNav'>
+            <h1>CLOSE RIVER</h1>
                 <ul>
                     <li>
                         <a href="">INICIO</a>
@@ -24,9 +22,8 @@ const NavBar = () => {
                         <a href="">AYUDA</a>
                     </li>
                 </ul>
+                <CartWidget/>
             </div>
-
-        <CartWidget/>
         </header>
     )
 }

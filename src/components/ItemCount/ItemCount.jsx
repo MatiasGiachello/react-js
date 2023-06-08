@@ -23,12 +23,12 @@ const ItemCount = () => {
 
 
     return (
-        <>
+        <div style={{display:'flex',justifyContent:'center',alignItems:'center'}}>
             <button onClick={decrementar}> - </button>
             <p> {contador} </p>
             <button onClick={incrementar}> + </button>
 
-        </>
+        </div>
     )
 }
 

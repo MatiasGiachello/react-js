@@ -3,7 +3,7 @@ import React from 'react'
 const ItemListContainer = (props) => {
 
   return (
-    <div>{props.text}</div>
+    <div style={{fontSize:'40px' ,textAlign:'center',marginTop:'200px'}}>{props.text}</div>
     
   )
 }
