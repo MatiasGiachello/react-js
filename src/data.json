@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Mate Imperial 1",
+        "Price": "8700",
+        "img": "https://o.remove.bg/downloads/35aaacea-7464-44d2-aa17-581127277998/imppp-removebg-preview.png"
+    },
+    {
+        "id": 2,
+        "title": "Mate Imperial 2",
+        "Price": "12000",
+        "img": "https://o.remove.bg/downloads/0dfafee2-1425-4552-be07-09c5e4d990ca/image-removebg-preview.png"
+    },
+    {
+        "id": 3,
+        "title": "Mate Imperial 3",
+        "Price": "12000",
+        "img": "https://o.remove.bg/downloads/35aaacea-7464-44d2-aa17-581127277998/imppp-removebg-preview.png"
+    },
+    {
+        "id": 4,
+        "title": "Mates de Ceramica",
+        "Price": "7000",
+        "img": "https://o.remove.bg/downloads/f3d73e8d-86c4-4da9-bb43-f05a4e8d0c8b/image-removebg-preview.png"
+    },
+    {
+        "id": 5,
+        "title": "Mate Camionero 2",
+        "Price": "7500",
+        "img": "https://o.remove.bg/downloads/35aaacea-7464-44d2-aa17-581127277998/imppp-removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "title": "Mate Camionero 3",
+        "Price": "8200",
+        "img": "https://o.remove.bg/downloads/a095cb83-4969-422d-a9ad-f3261f830dbf/image-removebg-preview.png"
+    }
+]
