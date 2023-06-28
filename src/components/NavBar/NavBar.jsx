@@ -7,7 +7,7 @@ const NavBar = () => {
     return (
         <header>
             <div className='containerNav'>
-                <h1>CLOSE RIVER</h1>
+                <h1>CLOSE MATES</h1>
                 <ul>
                     <li>
                         <Link to='/' className='link-navbar'>

@@ -7,6 +7,7 @@ import Ayuda from './components/Ayuda/Ayuda';
 import Home from './components/Home/Home';
 import Cart from './components/Cart/Cart';
 
+
 //Vite solo acepta comonentes con extencion .jsx, no acepta .js
 
 function App() {
